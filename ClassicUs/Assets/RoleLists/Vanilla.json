@@ -1,0 +1,26 @@
+{
+    "name" : "Vanilla",
+    "color" : "$crewmate",
+    "version" : "1.0.0",
+
+    "allowDuplicates" : false,
+    "roles" : [
+        "Shrimpmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate",
+        "RandomCrewmate"
+    ],
+    "impostors" : [
+        "RandomImpostor",
+        "RandomImpostor",
+        "RandomImpostor"
+    ]
+}

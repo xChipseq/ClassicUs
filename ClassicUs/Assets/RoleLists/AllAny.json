@@ -1,0 +1,26 @@
+{
+    "name" : "All Any",
+    "color" : "#ffffff",
+    "version" : "1.0.0", 
+
+    "allowDuplicates" : true,
+    "roles" : [
+        "Any",
+        "Any",
+        "Any",
+        "Any",
+        "Any",
+        "Any",
+        "Any",
+        "Any",
+        "Any",
+        "Any",
+        "Any",
+        "Any"
+    ],
+    "impostors" : [
+        "Any",
+        "Any",
+        "Any"
+    ]
+}
